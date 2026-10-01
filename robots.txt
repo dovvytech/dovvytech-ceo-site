@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dovvytech-ceo-site-saah-alain.vercel.app/sitemap.xml
